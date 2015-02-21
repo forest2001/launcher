@@ -5,3 +5,4 @@
 @echo retrieving launcher
 @git\bin\git clone https://github.com/toontownfellowship/launcher.git
 @copy launcher\launcher.bat .
+return Finished.
